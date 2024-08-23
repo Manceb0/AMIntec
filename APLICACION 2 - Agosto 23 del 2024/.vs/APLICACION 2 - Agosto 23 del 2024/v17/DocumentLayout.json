@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\AMIntec\\APLICACION 2 - Agosto 23 del 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{396B3784-143A-4226-91EE-3D946D2A085B}|APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024.vcxproj|C:\\Users\\USUARIO\\Downloads\\AMIntec\\APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{396B3784-143A-4226-91EE-3D946D2A085B}|APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024.vcxproj|solutionrelative:APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APLICACION 2 - Agosto 23 del 2024.cpp",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\AMIntec\\APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024.cpp",
+              "RelativeDocumentMoniker": "APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024.cpp",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\AMIntec\\APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024.cpp",
+              "RelativeToolTip": "APLICACION 2 - Agosto 23 del 2024\\APLICACION 2 - Agosto 23 del 2024.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T23:25:39.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
